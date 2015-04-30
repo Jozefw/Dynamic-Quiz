@@ -1,0 +1,26 @@
+body {
+	font-family: arial;
+}
+
+h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+#quiz{
+	text-indent: 10px;
+	display: none;
+}
+
+.button {
+	padding: 5px;
+	border: 1px black solid;
+	width: 40px;
+	border-radius: 5px;
+	float: right;
+	color: white;
+	background-color: blue;
+	position: relative;
+	margin: 0 2px 0 2px;
+
+}
